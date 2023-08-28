@@ -18,7 +18,6 @@
    <a href="https://www.linkedin.com/in/felipeoliveirafm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://www.behance.net/felipeoliveirafm" target="_blank"><img src="https://img.shields.io/badge/-Behance-0E0B88?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
     <a href = "mailto:felipeoliveira.fm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.instagram.com/felipeoliveira.fm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/felipeoliveirafm/felipeoliveirafm/blob/output/github-contribution-grid-snake.svg)
  
