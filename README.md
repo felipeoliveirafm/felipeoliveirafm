@@ -60,7 +60,3 @@ Curto criar interfaces bonitas, funcionais e que realmente entregam valor.
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
-
-<br>
-
-![Snake animation](https://github.com/felipeoliveirafm/felipeoliveirafm/blob/output/github-contribution-grid-snake.svg)
