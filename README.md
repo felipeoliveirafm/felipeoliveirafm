@@ -1,5 +1,5 @@
 # 👋 Olá!
-<img src="./felipelogo.png" width="280px" align="right" alt="Logo do Felipe Oliveira">
+<img src="./felipelogo.png" width="200px" align="right" alt="Logo do Felipe Oliveira">
 Sou **Felipe Oliveira**, Dev Front-End & UX/UI Designer — com os dois pés no design e o olhar cada vez mais full-stack. Curto criar interfaces bonitas, funcionais e que realmente entregam valor.<br><br>
 <div align="left">
   <a href="https://github.com/felipeoliveirafm">
