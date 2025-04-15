@@ -1,8 +1,7 @@
 <img src="./felipelogo.png" width="280px" align="right" alt="Logo do Felipe Oliveira">
 
-# Olá, pessoal! 👋
-Sou **Felipe Oliveira** — Desenvolvedor Front-End | UX/UI Designer | Full-Stack em formação
-Sou apaixonado por criar experiências digitais que unem estética, usabilidade e performance. Com background em design e desenvolvimento, atuo no front-end com foco em interfaces que encantam, mas também estou explorando o universo full-stack pra entregar soluções cada vez mais completas.
+### 👋 Olá!  
+Sou **Felipe Oliveira**, Dev Front-End & UX/UI Designer — com os dois pés no design e o olhar cada vez mais full-stack. Curto criar interfaces bonitas, funcionais e que realmente entregam valor.
 <div align="left">
   <a href="https://github.com/felipeoliveirafm">
     <img height="130em" src="https://github-readme-stats.vercel.app/api?username=felipeoliveirafm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
