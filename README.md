@@ -1,5 +1,6 @@
 ## Olá, pessoal! 👋  
 Sou **Felipe Oliveira** — Desenvolvedor Front-End | UX/UI Designer | Full-Stack em formação
+<img src="./felipelogo.png" width="200" alt="Logo do Felipe Oliveira">
 
 Sou apaixonado por criar experiências digitais que unem estética, usabilidade e performance. Com background em design e desenvolvimento, atuo no front-end com foco em interfaces que encantam, mas também estou explorando o universo full-stack pra entregar soluções cada vez mais completas.
 
