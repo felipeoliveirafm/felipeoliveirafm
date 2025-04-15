@@ -1,7 +1,7 @@
 ## Olá, pessoal! 👋  
 Sou **Felipe Oliveira** — Desenvolvedor Front-End | UX/UI Designer | Full-Stack em formação
 
-Sou apaixonado por criar experiências digitais que unem estética, usabilidade e performance. Com background em design e desenvolvimento, atuo no front-end com foco em interfaces que encantam, mas também estou explorando o universo full-stack pra entregar soluções cada vez mais completas. Bora codar bonito? 😎
+Sou apaixonado por criar experiências digitais que unem estética, usabilidade e performance. Com background em design e desenvolvimento, atuo no front-end com foco em interfaces que encantam, mas também estou explorando o universo full-stack pra entregar soluções cada vez mais completas.
 
 <div align="center">
   <a href="https://github.com/felipeoliveirafm">
@@ -20,6 +20,7 @@ Sou apaixonado por criar experiências digitais que unem estética, usabilidade 
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg">
   <!-- Adicione outras tecnologias aqui, se quiser -->
 </div>
 
