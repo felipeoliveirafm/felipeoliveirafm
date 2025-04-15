@@ -1,4 +1,8 @@
-## Olá Pessoal! Eu sou a Felipe Oliveira, desenvolvedor front-end e UX/UI designer.
+## Olá, pessoal! 👋  
+Sou **Felipe Oliveira** — Desenvolvedor Front-End | UX/UI Designer | Full-Stack em formação
+
+Sou apaixonado por criar experiências digitais que unem estética, usabilidade e performance. Com background em design e desenvolvimento, atuo no front-end com foco em interfaces que encantam, mas também estou explorando o universo full-stack pra entregar soluções cada vez mais completas. Bora codar bonito? 😎
+
 <div align="center">
   <a href="https://github.com/felipeoliveirafm">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=felipeoliveirafm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
